@@ -6,7 +6,7 @@ classes for API resources that initialize themselves dynamically from API
 responses which makes it compatible with a wide range of versions of the GetNude
 API.
 
-<img height="160" src="https://pub-e3179ff57558475ba67eb7490c8cd967.r2.dev/seq.jpg">
+<img height="320" src="https://pub-e3179ff57558475ba67eb7490c8cd967.r2.dev/seq.jpg">
 
 ## Requirements
 
